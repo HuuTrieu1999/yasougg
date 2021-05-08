@@ -6,13 +6,13 @@ import lombok.Data;
 
 @Entity
 @Data
-public class Order {
+public class OrderEntity {
 
   @Id
   long id;
 
   String address;
-  String receiveName;
+  String receiverName;
   String receiverPhone;
   String dueDay;
   boolean isDelivery;
