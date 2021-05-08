@@ -7,15 +7,15 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import lombok.Data;
 
-@Entity
+//@Entity
 @Data
 public class Shipper {
 
-  @Id
-  @GeneratedValue(strategy = GenerationType.IDENTITY)
+//  @Id
+//  @GeneratedValue(strategy = GenerationType.IDENTITY)
   long id;
 
-  @Column(unique = true)
+  //@Column(unique = true)
   String phoneNumber;
 
   String name;

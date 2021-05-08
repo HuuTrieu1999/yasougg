@@ -1,22 +1,12 @@
 
 4
-.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-4
 mvnw,5/d/5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
 7
 HELP.md,1/a/1a273f73b7a477b0745593641bd708a6182c7ad5
 8
-Procfile,b/c/bc3c68e880d1a01632bce79f69dd1387c7ba9c54
-8
 mvnw.cmd,1/f/1f1763f358c257ea3515417352b82b0165647ad1
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-A
-system.properties,a/5/a5db35984da8ffa0e255c16a2e31ae7b26e7d222
 ;
 payment.iml,e/0/e0ccdc1c136fece67f70dddea513b0abf92c3219
-U
-%target/classes/application.properties,b/b/bb173f9557479135e0f1bcd9c6c5f7b4ae5f77e8
 ‚
 Rtarget/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,8/a/8ae396f369da14bb5c0973286facff8fb2c70d56
 €
@@ -33,7 +23,3 @@ h
 8src/main/java/com/paylinks/dto/login/SignupResponse.java,7/d/7d0e5af8afcfab9de9f2e84d08d4d4bd1edcbac9
 c
 3src/main/java/com/paylinks/PAYLINKSApplication.java,8/3/833d0f73fcfda8bf81321b0795c03102d321ac52
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-j
-:src/main/java/com/paylinks/controller/LoginController.java,0/a/0a0283ace6a8730c38ff22a9aba0d7fa641e5cb5
