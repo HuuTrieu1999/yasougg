@@ -1,0 +1,7 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““»’8Œ»†Š‰/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤÷¿‘ÿÿÿÿÿ8¶™ŠŠ‰/
+U
+java:S1854"8Remove this useless assignment to local variable "gson".(şëŒ8ÀŠ‰/
+F
+java:S1481")Remove this unused "gson" local variable.(şëŒ8ÀŠ‰/

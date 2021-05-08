@@ -1,0 +1,27 @@
+
+n
+java:S1192("LDefine a constant instead of duplicating this literal "Exception: " 3 times.(ª•óŠøÿÿÿÿ8¸Úª­‹/
+A
+java:S2629*"$Invoke method(s) only conditionally.(àÃç€8„˜Ÿ­‹/
+A
+java:S2629:"$Invoke method(s) only conditionally.(ÇÙÓô8òƒ¢­‹/
+F
+java:S2629J"$Invoke method(s) only conditionally.(¢×¾£ýÿÿÿÿ8”½¬­‹/
+F
+java:S2629Y"$Invoke method(s) only conditionally.(™Ì±Æÿÿÿÿÿ8¯è°­‹/
+~
+java:S3457*"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(àÃç€8„˜Ÿ­‹/
+~
+java:S3457*"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(àÃç€8„˜Ÿ­‹/
+~
+java:S3457:"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÇÙÓô8òƒ¢­‹/
+~
+java:S3457:"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÇÙÓô8òƒ¢­‹/
+ƒ
+java:S3457J"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¢×¾£ýÿÿÿÿ8”½¬­‹/
+ƒ
+java:S3457J"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¢×¾£ýÿÿÿÿ8”½¬­‹/
+ƒ
+java:S3457Y"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(™Ì±Æÿÿÿÿÿ8¯è°­‹/
+ƒ
+java:S3457Y"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(™Ì±Æÿÿÿÿÿ8¯è°­‹/

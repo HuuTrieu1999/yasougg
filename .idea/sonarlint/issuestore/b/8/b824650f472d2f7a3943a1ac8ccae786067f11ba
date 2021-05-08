@@ -1,0 +1,15 @@
+
+m
+java:S11929"PDefine a constant instead of duplicating this literal "Co loi xay ra: " 3 times.(ˆê8Û¸²‹/
+F
+java:S26292"$Invoke method(s) only conditionally.(¸ä¥ğøÿÿÿÿ8ÖËë¯Œ/
+A
+java:S2629H"$Invoke method(s) only conditionally.(ıòØ÷8ÖÃí¯Œ/
+Y
+java:S1128"<Remove this unused import 'com.paylinks.common.model.Image'.(×°8Ç¦”²‹/
+C
+java:S1168,"&Return an empty array instead of null.(¥¹ï8­÷²²‹/
+ƒ
+java:S34572"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¸ä¥ğøÿÿÿÿ8ÖËë¯Œ/
+~
+java:S3457H"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ıòØ÷8ÖÃí¯Œ/

@@ -1,0 +1,31 @@
+
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ8‚µÓÛƒ/
+O
+java:S1128"2Remove this unused import 'java.security.KeyPair'.(üúì›8ÛòÏÛƒ/
+]
+java:S1128";Remove this unused import 'com.google.common.hash.Hashing'.(ô‡ã·şÿÿÿÿ8ÀöŠÜƒ/
+R
+java:S1128"0Remove this unused import 'javax.crypto.Cipher'.(ç‡‡³øÿÿÿÿ8ÛòÏÛƒ/
+b
+java:S1128"@Remove this unused import 'javax.crypto.NoSuchPaddingException'.(âÆ×øÿÿÿÿÿ8‚µÓÛƒ/
+]
+java:S1128";Remove this unused import 'java.security.KeyPairGenerator'.(åÚ¼–úÿÿÿÿ8ÛòÏÛƒ/
+e
+java:S1128"CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸Äûÿÿÿÿ8‚µÓÛƒ/
+[
+java:S1128	">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8ÀöŠÜƒ/
+_
+java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿ8‚µÓÛƒ/
+e
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ8‚µÓÛƒ/
+`
+java:S1128
+">Remove this unused import 'java.security.InvalidKeyException'.(ì£ğ»ÿÿÿÿÿ8‚µÓÛƒ/
+V
+java:S1118":Add a private constructor to hide the implicit public one.(×¿«b8­Ëº¯ƒ/
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø…è†ÿÿÿÿÿ8á°Â¯ƒ/
+L
+java:S1172."*Remove this unused method parameter "key".(ø…è†ÿÿÿÿÿ8ÀöŠÜƒ/
+j	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÿí8„½È¯ƒ/
+M
+java:S11722"0Remove this unused method parameter "publicKey".(×ÿí8„½È¯ƒ/

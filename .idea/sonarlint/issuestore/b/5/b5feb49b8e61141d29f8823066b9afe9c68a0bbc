@@ -1,0 +1,47 @@
+
+n
+java:S1192/"LDefine a constant instead of duplicating this literal "Exception: " 7 times.(ª•óŠøÿÿÿÿ8¢»ø”/
+A
+java:S26291"$Invoke method(s) only conditionally.(¹™¾ì8ú”/
+A
+java:S2629@"$Invoke method(s) only conditionally.(¡Í…“8·¿ˆ•/
+@
+java:S2629O"$Invoke method(s) only conditionally.(…ã;8¦•‰•/
+F
+java:S2629^"$Invoke method(s) only conditionally.(‚Ç‹¸ùÿÿÿÿ8«â‰•/
+F
+java:S2629n"$Invoke method(s) only conditionally.(±Ï¦ùÿÿÿÿ8Ú Š•/
+@
+java:S2629~"$Invoke method(s) only conditionally.(±õô8ôãŠ•/
+G
+java:S2629"$Invoke method(s) only conditionally.(èï”¶ùÿÿÿÿ8¯µ‹•/
+>
+java:S1116!"Remove this empty statement.(Åñ­õşÿÿÿÿ8«Æ÷”/
+~
+java:S34571"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¹™¾ì8ú”/
+~
+java:S34571"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¹™¾ì8ú”/
+~
+java:S3457@"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¡Í…“8·¿ˆ•/
+~
+java:S3457@"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¡Í…“8·¿ˆ•/
+}
+java:S3457O"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(…ã;8¦•‰•/
+}
+java:S3457O"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(…ã;8¦•‰•/
+ƒ
+java:S3457^"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(‚Ç‹¸ùÿÿÿÿ8«â‰•/
+ƒ
+java:S3457^"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(‚Ç‹¸ùÿÿÿÿ8«â‰•/
+ƒ
+java:S3457n"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(±Ï¦ùÿÿÿÿ8Ú Š•/
+ƒ
+java:S3457n"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(±Ï¦ùÿÿÿÿ8Ú Š•/
+}
+java:S3457~"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(±õô8ôãŠ•/
+}
+java:S3457~"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(±õô8ôãŠ•/
+„
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(èï”¶ùÿÿÿÿ8¯µ‹•/
+„
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(èï”¶ùÿÿÿÿ8¯µ‹•/

@@ -1,0 +1,1 @@
+web: java -jar target/payment-0.0.1-SNAPSHOT.jar

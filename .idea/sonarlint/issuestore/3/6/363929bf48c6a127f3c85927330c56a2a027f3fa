@@ -1,0 +1,34 @@
+
+F
+java:S2629-"$Invoke method(s) only conditionally.(à×ºïùÿÿÿÿ8û×Å¬‹/
+F
+java:S26296"$Invoke method(s) only conditionally.(éàí¡üÿÿÿÿ8…ðÈ¬‹/
+@
+java:S2629@"$Invoke method(s) only conditionally.(™Ç·n8€èÇ¬‹/
+F
+java:S2629P"$Invoke method(s) only conditionally.(“µõ¡üÿÿÿÿ8àù¾®‹/
+A
+java:S2629`"$Invoke method(s) only conditionally.(Þª©ë8àù¾®‹/
+ƒ
+java:S3457-"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(à×ºïùÿÿÿÿ8û×Å¬‹/
+ƒ
+java:S3457-"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(à×ºïùÿÿÿÿ8û×Å¬‹/
+X	java:S1254"<This block of commented-out lines of code should be removed.(·Çý¥8˜™¸¬‹/
+ƒ
+java:S34576"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(éàí¡üÿÿÿÿ8…ðÈ¬‹/
+ƒ
+java:S34576"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(éàí¡üÿÿÿÿ8…ðÈ¬‹/
+]	java:S125="<This block of commented-out lines of code should be removed.(åÀü¹úÿÿÿÿ8¼é·¬‹/
+}
+java:S3457@"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(™Ç·n8€èÇ¬‹/
+}
+java:S3457@"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(™Ç·n8€èÇ¬‹/
+]	java:S125?"<This block of commented-out lines of code should be removed.(¼èæ½þÿÿÿÿ8Úû·¬‹/
+ƒ
+java:S3457P"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(“µõ¡üÿÿÿÿ8àù¾®‹/
+ƒ
+java:S3457P"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(“µõ¡üÿÿÿÿ8àù¾®‹/
+~
+java:S3457`"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Þª©ë8àù¾®‹/
+~
+java:S3457`"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Þª©ë8àù¾®‹/

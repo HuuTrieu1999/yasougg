@@ -1,0 +1,21 @@
+
+Q
+java:S10664"/Merge this if statement with the enclosing one.(ª¾ûÿÿÿÿ8»Â¨°ƒ/
+F
+java:S2629/"$Invoke method(s) only conditionally.(·Íá¸ýÿÿÿÿ8žïÜÊƒ/
+F
+java:S2629a"$Invoke method(s) only conditionally.(ßÉðÃúÿÿÿÿ8žïÜÊƒ/
+b
+java:S1128"@Remove this unused import 'javax.crypto.NoSuchPaddingException'.(âÆ×øÿÿÿÿÿ8¤ÑÔÛƒ/
+e
+java:S1128"CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸Äûÿÿÿÿ8ŸŸÔÛƒ/
+_
+java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿ8ŸŸÔÛƒ/
+e
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾þÿÿÿÿ8¤ÑÔÛƒ/
+`
+java:S1128">Remove this unused import 'java.security.InvalidKeyException'.(ì£ð»ÿÿÿÿÿ8ŸŸÔÛƒ/
+W
+java:S1172B"5Remove this unused method parameter "paymentRequest".(¼¿µôùÿÿÿÿ8ý÷ Ý’/
+€
+java:S2142k"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8Ã§á¹‘/
