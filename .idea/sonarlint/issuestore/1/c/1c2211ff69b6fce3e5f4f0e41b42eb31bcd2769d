@@ -1,28 +1,0 @@
-
-f
-java:S2583/"DChange this condition so that it does not always evaluate to "false"(‰Ó…Æþÿÿÿÿ8Ð¹îµ‚/
-f
-java:S2583C"DChange this condition so that it does not always evaluate to "false"(‰Ó…Æþÿÿÿÿ8Ð¹îµ‚/
-f
-java:S2583k"DChange this condition so that it does not always evaluate to "false"(‰Ó…Æþÿÿÿÿ8Ð¹îµ‚/
-r
-java:S1128"PRemove this unused import 'com.paylinks.web.dto.home.store.DeleteStoreResponse'.(¬È›¢üÿÿÿÿ8Õ‹©´‚/
-^
-java:S1128"<Remove this unused import 'com.paylinks.common.model.Store'.(Þéýâüÿÿÿÿ8›ºÅ´‚/
-q
-java:S1128"ORemove this unused import 'com.paylinks.web.dto.home.store.EditedStoreRequest'.(­Ìä«üÿÿÿÿ8ã¨£´‚/
-n
-java:S1128	"LRemove this unused import 'com.paylinks.web.dto.home.store.AddStoreRequest'.(êßæÞøÿÿÿÿ8¸º§´‚/
-o
-java:S1128
-"MRemove this unused import 'com.paylinks.web.dto.home.store.AddStoreResponse'.(¤Ì¥‘ùÿÿÿÿ8Àª¨´‚/
-r
-java:S1128"PRemove this unused import 'com.paylinks.web.dto.home.store.EditedStoreResponse'.(°Èˆüûÿÿÿÿ8—¦´‚/
-q
-java:S1128"ORemove this unused import 'com.paylinks.web.dto.home.store.DeleteStoreRequest'.(¾“•‹úÿÿÿÿ8úÑ¤´‚/
-o
-java:S1128"MRemove this unused import 'com.paylinks.web.dto.home.store.GetStoreResponse'.(°‘²Æúÿÿÿÿ8°›¥´‚/
-m
-java:S1128"KRemove this unused import 'com.paylinks.common.repository.StoreRepository'.(°Ö©·þÿÿÿÿ8îº ´‚/
-n
-java:S1128"LRemove this unused import 'com.paylinks.web.dto.home.store.GetStoreRequest'.(‹üªæýÿÿÿÿ8ª¬¢´‚/
