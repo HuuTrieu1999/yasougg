@@ -25,7 +25,7 @@ public class YasouService {
       map.put(order.getLocation(), order);
       locations.add(order.getLocation());
     }
-    String[] locationsParam = (String[]) locations.toArray();
+    String[] locationsParam = toArray(locations);
     int[] result = TSP.findPath(locationsParam);
     List<Order> sortedOrders = new ArrayList<>();
     List<String> sortedLocations = new ArrayList<>();
@@ -40,4 +40,13 @@ public class YasouService {
     response.setErrorCode(1);
     return response;
   }
+
+  private String[] toArray(List<String> list){
+    String[] arr = new String[list.size()];
+    for(int i = 0; i < list.size(); i++){
+      arr[i] = list.get(i);
+    }
+    return arr;
+  }
+
 }
