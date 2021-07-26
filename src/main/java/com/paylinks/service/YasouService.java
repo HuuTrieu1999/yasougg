@@ -29,9 +29,9 @@ public class YasouService {
     int[] result = TSP.findPath(locationsParam);
     List<Order> sortedOrders = new ArrayList<>();
     List<String> sortedLocations = new ArrayList<>();
-    for(int index : result) {
-      sortedLocations.add(locationsParam[index]);
-      sortedOrders.add(map.get(locationsParam[index]));
+    for(int index = 1; index < result.length; index++) {
+      sortedLocations.add(locationsParam[result[index]]);
+      sortedOrders.add(map.get(locationsParam[result[index]]));
     }
 
     response.setLocations(sortedLocations);
