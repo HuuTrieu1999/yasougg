@@ -21,5 +21,3 @@ g
 7src/main/java/com/paylinks/dto/login/LoginResponse.java,2/a/2a50283ece321d4a0a44b0180915a57d42f904c9
 h
 8src/main/java/com/paylinks/dto/login/SignupResponse.java,7/d/7d0e5af8afcfab9de9f2e84d08d4d4bd1edcbac9
-c
-3src/main/java/com/paylinks/PAYLINKSApplication.java,8/3/833d0f73fcfda8bf81321b0795c03102d321ac52
