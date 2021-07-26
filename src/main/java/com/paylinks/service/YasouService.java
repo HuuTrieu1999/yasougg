@@ -26,7 +26,13 @@ public class YasouService {
       locations.add(order.getLocation());
     }
     String[] locationsParam = toArray(locations);
-    int[] result = TSP.findPath(locationsParam);
+    int[] result = find(locationsParam, 0);
+    if(result == null) {
+      response.setDescription("Can not fin location");
+      response.setOrders(request.getOrders());
+      return response;
+    }
+
     List<Order> sortedOrders = new ArrayList<>();
     List<String> sortedLocations = new ArrayList<>();
     for(int index = 1; index < result.length; index++) {
@@ -48,5 +54,28 @@ public class YasouService {
     }
     return arr;
   }
+
+  private int[] find(String[] locationsParam, int retry){
+    if(retry >=3) return null;
+    try {
+      return TSP.findPath(locationsParam);
+    }
+    catch (Exception e){
+      logger.info("[TSP} Exception: ", e.getMessage());
+      sleep(retry);
+      return find(locationsParam, retry+1);
+    }
+  }
+
+  private void sleep(int retry){
+    logger.info("[Sleep] retry: {}",retry);
+    try {
+      Thread.sleep(1000);
+    }
+    catch (Exception e){
+      logger.info("[Sleep] Exception: {}",e.getMessage());
+    }
+  }
+
 
 }
