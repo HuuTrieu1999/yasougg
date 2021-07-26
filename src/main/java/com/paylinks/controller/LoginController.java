@@ -56,11 +56,6 @@ public class LoginController {
     return new ResponseEntity<>(response, HttpStatus.OK);
   }
 
-//  @PostMapping("/logout")
-//  public ResponseEntity<LoginResponse> logout(@RequestBody LoginRequest request){
-//
-//  }
-
   @CrossOrigin
   @PostMapping("/signup")
   public ResponseEntity<SignupResponse> signup(@RequestBody SignupRequest request){
