@@ -26,12 +26,12 @@ public class YasouController {
     return "Ok";
   }
 
-  @PostMapping("/find")
+  @PostMapping("/email/send")
   @CrossOrigin
-  public FindPathResponse find(@RequestBody FindPathRequest request){
+  public FindPathResponse send(@RequestBody FindPathRequest request){
     FindPathResponse response;
     try {
-      response = yasouService.find(request);
+      response = yasouService.send(request);
     } catch (Exception e) {
       response = new FindPathResponse();
       response.setErrorCode(-1);
