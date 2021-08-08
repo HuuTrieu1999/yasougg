@@ -27,6 +27,7 @@ public class YasouService {
             } else if (request.getType().equals("html")) {
                 sendHtmlEmail(request);
             }
+
             logger.info("Send email success");
         } catch (Exception e) {
             e.printStackTrace();
