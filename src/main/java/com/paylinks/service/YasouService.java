@@ -1,8 +1,6 @@
 package com.paylinks.service;
 
-import com.paylinks.dto.FindPathRequest;
-import com.paylinks.dto.FindPathResponse;
-
+import com.paylinks.dto.MailRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,21 +16,16 @@ public class YasouService {
   @Autowired
   private JavaMailSender javaMailSender;
 
-  public FindPathResponse send(FindPathRequest request){
-    FindPathResponse response = new FindPathResponse();
+  public String send(MailRequest request){
     try {
-      //sendEmail();
       sendEmail();
       logger.info("Send email success");
     } catch (Exception e) {
       e.printStackTrace();
+      return e.getMessage();
     }
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-
-    System.out.println("Done");
-    return response;
+    logger.info("Send done");
+    return "Success";
   }
 
   void sendEmail() {
@@ -40,7 +33,7 @@ public class YasouService {
     SimpleMailMessage msg = new SimpleMailMessage();
     msg.setTo("trieuphuhuu1999@gmail.com"); //, "2@yahoo.com");
 
-    msg.setSubject("Testing from Spring Boot 1");
+    msg.setSubject("Testing from Spring Boot CN 17:00");
     msg.setText("Hello World \n Spring Boot Email");
 
     javaMailSender.send(msg);

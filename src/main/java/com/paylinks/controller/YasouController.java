@@ -1,7 +1,6 @@
 package com.paylinks.controller;
 
-import com.paylinks.dto.FindPathRequest;
-import com.paylinks.dto.FindPathResponse;
+import com.paylinks.dto.MailRequest;
 import com.paylinks.service.YasouService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -26,18 +25,16 @@ public class YasouController {
     return "Ok";
   }
 
-  @PostMapping("/email/send")
+  @PostMapping("/send")
   @CrossOrigin
-  public FindPathResponse send(@RequestBody FindPathRequest request){
-    FindPathResponse response;
+  public String send(@RequestBody MailRequest request){
+    String response;
     try {
       response = yasouService.send(request);
     } catch (Exception e) {
-      response = new FindPathResponse();
-      response.setErrorCode(-1);
-      response.setDescription("Exception: " + e.getMessage());
+      response = e.getMessage();
     }
-    logger.info("[API][find] request {} | response {}", request.toString(),response.toString());
+    logger.info("[API][SendMail] request {} | response {}", request.toString(),response);
     return response;
   }
 
