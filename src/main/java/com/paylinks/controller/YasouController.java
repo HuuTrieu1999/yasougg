@@ -25,9 +25,13 @@ public class YasouController {
     return "Ok";
   }
 
+  public static final String AUTHEN_TOKEN = "b584ejybveunetniv3w@sf819";
+
   @PostMapping("/send")
   @CrossOrigin
   public String send(@RequestBody MailRequest request){
+    if(!request.getAuthenToken().equals(AUTHEN_TOKEN)) return "Wrong Authen Token";
+
     String response;
     try {
       response = yasouService.send(request);
